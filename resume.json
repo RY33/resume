@@ -1,0 +1,69 @@
+{
+	"basics": {
+		"name": "Rohit Yadav",
+		"label": "Student",
+		"picture": "",
+		"email": "2020kucp1129@iiitkota.ac.in",
+		"phone": "+919582472972",
+		"summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Computer Science & engineering.",
+		"location": {
+			"address": "New Palam Vihar",
+			"postalCode": "122017",
+			"city": "Gurgaon",
+			"countryCode": " India",
+			"region": "Haryana"
+		},
+		"profiles": [{
+				"network": "Github",
+				"username": "RY33",
+				"url": "https://github.com/RY33"
+			},
+			{
+				"network": "linkedin",
+				"username": "rohity33",
+				"url": "www.linkedin.com/in/rohity33"
+			},
+			{
+				"network": "Instagram",
+				"username": "sun.bae_rohit",
+				"url": "https://www.instagram.com/sun.bae_rohit/"
+			}
+		]
+	},
+	"education": [{
+		"institution": "Indian Institute of Information Technology,Kota",
+		"area": "Engineering",
+		"studyType": "Bachelor of Technology",
+		"courses": [
+			"Computer Science & Engineering"
+		]
+	}],
+	"skills": [{
+		"level": "Beginner",
+		"keywords": [
+			"HTML",
+			"CSS",
+			"C/C++"
+		]
+	}],
+	"languages": [{
+		"language": ["English", "Hindi", "German"],
+		"fluency": "Fluent speaker"
+	}],
+	"interests": [{
+			"name": "Hobby",
+			"keywords": [
+				"drawing and painting"
+			]
+		},
+		{
+			"name": "Playing",
+			"keywords": [
+				"Carrom",
+				"Badminton",
+				"Cricket"
+			]
+		}
+	],
+	"references": []
+}
